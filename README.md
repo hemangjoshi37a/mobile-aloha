@@ -12,6 +12,8 @@ To train imitation learning algorithms, you would also need to install [ACT for 
 - ``launch``: a ROS launch file for all 4 cameras and all 4 robots.
 - ``aloha_scripts``: python code for teleop and data collection
 
+<iframe style="width:100%;height:auto;min-width:600px;min-height:400px;" src="https://star-history.com/embed?secret=#MarkFzp/mobile-aloha&Date" frameBorder="0"></iframe>
+
 ## Quick start guide
 
 ### Software selection -- OS:
